@@ -25,13 +25,13 @@
   width: 92%;
   height: 5vh;
   margin: 1.7vh 1.3vh 0vh 1.7vh;
-  background: #dc143c;
+  background: #575757;
 }
 
 .scoreboard-header > p {
   text-align: center;
   font-weight: bold;
-  color: #ededed;
+  color: #ea00ff;
   padding: 1.3vh;
   font-family: 'Poppins', sans-serif;
   font-size: 2.5vh;
@@ -51,7 +51,7 @@
   left: 2.7vh;
   line-height: 4vh;
   font-weight: bold;
-  color: #ededed;
+  color: #ea00ff;
 }
 
 .info-beam-title-players {
@@ -62,7 +62,7 @@
   left: 2.4vh;
   line-height: 4vh;
   font-weight: bold;
-  color: #ededed;
+  color: #f200ff;
 }
 
 .info-beam-status {
@@ -84,13 +84,13 @@
 }
 
 .fa-times {
-  color: #dc143c;
+  color: #727272;
 }
 
 .fa-check {
-  color: #28a745;
+  color: #000000;
 }
 
 .fa-clock {
-  color: #2873a7;
+  color: #a200ff;
 }
